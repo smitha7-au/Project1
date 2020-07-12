@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: beige url("whitehaven.jpg") no-repeat center;
+    background-size: cover;
+    /* background-image: url("Whitehaven.jpg"); */
+    /* background-position: center; */
+}
+
+p {
+    font-size: 1em;
+    color: brown;
+}
+
+.black {
+    color: black;
+}
+
+.blue {
+    color: blue;
+}
+
+div.ImgBorder > img {
+    border: 3px solid blueviolet; 
+    /* padding: 20px,20px,20px,20px; */
+    
+}
